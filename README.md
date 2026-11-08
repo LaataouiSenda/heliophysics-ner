@@ -11,7 +11,6 @@ Named entity recognition with ModernBERT and figure-attribute generation with FL
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?logoColor=black)
 
 End-of-studies project (PFE), Polytech Monastir, 2025/2026
-Supervised by Pr. Zrigui Mounir
 
 </div>
 
