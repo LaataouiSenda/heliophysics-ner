@@ -122,4 +122,4 @@ Python, PyTorch, Hugging Face Transformers and Datasets, seqeval, scikit-learn, 
 
 Senda Laataoui, software engineer (Polytech Monastir). Research interests: explainable AI and medical imaging.
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[LinkedIn](https://www.linkedin.com/in/senda-laataoui/) 
