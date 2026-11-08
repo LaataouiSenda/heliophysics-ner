@@ -120,6 +120,7 @@ Python, PyTorch, Hugging Face Transformers and Datasets, seqeval, scikit-learn, 
 
 ## Author
 
-Senda Laataoui, software engineer (Polytech Monastir). Research interests: explainable AI and medical imaging.
+Senda Laataoui, 
+AI Researcher | Explainable AI & Medical Imaging | Deep Learning Engineer
 
 [LinkedIn](https://www.linkedin.com/in/senda-laataoui/) 
