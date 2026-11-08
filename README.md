@@ -120,7 +120,8 @@ Python, PyTorch, Hugging Face Transformers and Datasets, seqeval, scikit-learn, 
 
 ## Author
 
-Senda Laataoui, 
+Senda LAATAOUI,
+
 AI Researcher | Explainable AI & Medical Imaging | Deep Learning Engineer
 
 [LinkedIn](https://www.linkedin.com/in/senda-laataoui/) 
